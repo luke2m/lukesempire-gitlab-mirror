@@ -67,6 +67,8 @@ a:visited {
     h6,
     strong {
         color: #93a1a1;
+	font-family: 'Space Mono', monospace;
+
     }
 
 }
