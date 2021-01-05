@@ -2,4 +2,4 @@
 layout: note
 title: First Note
 ---
-First Note
+My First Note
