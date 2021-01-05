@@ -1,20 +1,4 @@
-@media (prefers-color-scheme:dark) {
-    body {
-        color: #839496;
-        background-color: #002b36;
-    }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong {
-        color: #93a1a1;
-    }
-
-}
 
 
 body {
@@ -27,6 +11,7 @@ body {
     color: #657b83;
 
 }
+
 
 h1,
 h2,
@@ -66,6 +51,24 @@ a:visited {
 
 .PageNavigation .next {
     text-align: right;
+}
+
+@media (prefers-color-scheme:dark) {
+    body {
+        color: #839496;
+        background-color: #002b36;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong {
+        color: #93a1a1;
+    }
+
 }
 
 /*
