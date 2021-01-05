@@ -25,7 +25,15 @@ h6,
     margin-bottom: 24px;
     color: #586e75;
 }
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+{
+font-family: 'Space Mono', monospace !important;
+}
 strong {
     color: #586e75;
 }
