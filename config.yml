@@ -2,8 +2,6 @@ title: Luke's Empire
 url: https://lukesempire.com
 tagline: Random stuff from Luke
 description: Luke's website and blog
-plugins:
-  - jekyll-seo-tag
 author: Luke M
 logo: /photo.jpg
 social:
