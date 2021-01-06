@@ -6,6 +6,8 @@ description: See all the cursor styles and compatibility.
 ---
 Hover over the following to see the cursor types that you can define in CSS. The list of them is from w3schools.
 I started a list of compatibility at the bottom.
+
+
 <span style="cursor:auto">auto</span><br>
 <span style="cursor:crosshair">crosshair</span><br>
 <span style="cursor:default">default</span><br>
@@ -26,4 +28,4 @@ I started a list of compatibility at the bottom.
 
 - MX Linux and Arch Linux with XFCE and Budgie -- All supported
 - Windows 10 -- All supported
-More coming soon...
+- iPadOS -- Only text and default change, all the rest show default cursor
