@@ -48,6 +48,6 @@ Then, use the following commands, based on what filesystem your USB defice uses.
   </tr>
 </tbody>
 </table></div>
-To unmount: 
+## Unmounting
 `sudo umount /mnt/myusb`
 
