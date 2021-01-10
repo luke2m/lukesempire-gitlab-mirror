@@ -65,6 +65,9 @@ h1, h2, h3, h4, h5, h6
     margin-bottom: 24px;
     color: #586e75;
 }
+code, pre {
+    background-color: #eee8d5
+}
 strong {
     color: #586e75;
 }
@@ -102,6 +105,10 @@ a:visited {
     strong {
         color: #93a1a1;
     }
+    code, pre {
+    background-color: #073642    
+    }
+
 
 }
 
