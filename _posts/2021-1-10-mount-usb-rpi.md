@@ -25,19 +25,19 @@ Then, use the following commands, based on what filesystem your USB defice uses.
 <tbody>
   <tr>
     <td>FAT</td>
-    <td>`sudo mount -t vfat /dev/sda1 /mnt/myusb -o umask=000`</td>
+    <td><code>sudo mount -t vfat /dev/sda1 /mnt/myusb -o umask=000</code></td>
   </tr>
   <tr>
     <td>EXT4</td>
-    <td>`sudo mount -t ext4 /dev/sda1 /mnt/myusb`</td>
+    <td><code>sudo mount -t ext4 /dev/sda1 /mnt/myusb</code></td>
   </tr>
   <tr>
     <td>NTFS</td>
-    <td>For NTFS, you will first need to install `ntfs-3g`. `sudo apt install ntfs-3g`<br><br>Then, mount with `sudo mount -t ntfs /dev/sda1 /mnt/myusb -o umask=000`</td>
+    <td>For NTFS, you will first need to install <code>ntfs-3g</code>. <code>sudo apt install ntfs-3g</code><br>Then, mount with <code>sudo mount -t ntfs /dev/sda1 /mnt/myusb -o umask=000</code></td>
   </tr>
   <tr>
     <td>exFAT</td>
-    <td>First, install `exfat-fuse`. `sudo apt install exfat-fuse`<br><br>Then, mount with `sudo mount -t exfat /dev/sda1 /mnt/myusb`</td>
+    <td>First, install <code>exfat-fuse</code>. <code>sudo apt install exfat-fuse</code><br>Then, mount with <code>sudo mount -t exfat /dev/sda1 /mnt/myusb</code></td>
   </tr>
 </tbody>
 </table></div>
