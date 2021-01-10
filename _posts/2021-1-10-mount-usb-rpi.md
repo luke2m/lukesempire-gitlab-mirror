@@ -7,8 +7,15 @@ published: true
 WIP
 ## Mounting
 To mount a USB drive so that the OS can use it, first, you need to know what it is recognised as.
-```lsblk -f -p ```
-
+<pre>$ lsblk -f -p
+NAME             FSTYPE LABEL  UUID                                 FSAVAIL FSUSE% MOUNTPOINT
+/dev/sda                                                                           
+└─/dev/sda1      ext4   Music  9ddc2e50-a9a2-4f0b-8ffe-95f6340b6a87    4.6G    31% 
+/dev/mmcblk0                                                                       
+├─/dev/mmcblk0p1 vfat   boot   4AD7-B4D5                             198.3M    21% /boot
+└─/dev/mmcblk0p2 ext4   rootfs 2887d26c-6ae7-449d-9701-c5a4018755b0    8.8G    66% /
+</pre>
+Find your device, and remember the FSTYPE and NAME.
 
 Then, you will need to make a mount point. You can replace `myusb` with anything you like.
 ```sudo mkdir /mnt/myusb```
