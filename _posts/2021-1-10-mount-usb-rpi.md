@@ -15,16 +15,12 @@ Then, you will need to make a mount point. You can replace `myusb` with anything
 
 
 Then, use the following commands, based on what filesystem your USB defice uses. You can tell this from the first command, `lsblk -f -p`. Also, replace `/dev/sda1` and `/mnt/myusb` with what you decided before.
+| FAT   | `sudo mount -t vfat /dev/sda1 /mnt/myusb -o umask=000`                                                                                                  |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EXT4  | `sudo mount -t ext4 /dev/sda1 /mnt/myusb`                                                                                                               |
+| NTFS  | For NTFS, you will first need to install `ntfs-3g`. `sudo apt install ntfs-3g`  Then, mount with `sudo mount -t ntfs /dev/sda1 /mnt/myusb -o umask=000` |
+| exFAT | First, install `exfat-fuse`. `sudo apt install exfat-fuse`  Then, mount with `sudo mount -t exfat /dev/sda1 /mnt/myusb`                                 |
 
-
-|-----|
-|FAT | sudo mount -t vfat /dev/sda1 /mnt/myusb -o umask=000 |
-|-----|
-|exFAT| sudo apt install exfat-fuse && sudo mount -t exfat /dev/sda1 /mnt/myusb |
-|-----|
-|ext4| sudo mount -t ext4 /dev/sda1 /mnt/myusb
-|-----|
-|NTFS| sudo apt install ntfs-3g && sudo mount -t ntfs /dev/sda1 /mnt/myusb -o umask=000|
-|-----|
 To unmount: 
-`sudo umount /mnt/myusb
+`sudo umount /mnt/myusb`
+
