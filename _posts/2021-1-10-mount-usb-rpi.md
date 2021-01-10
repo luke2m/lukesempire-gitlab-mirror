@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Mount USB storage on a Raspberry Pi
+title: WIP Mount USB storage on a Raspberry Pi
 description: How to mount USB storage on a Raspberry Pi or other Linux device from the terminal.
 published: 
 ---
-Test 
+WIP
 ## Mounting
 To mount a USB drive so that the OS can use it, first, you need to know what it is recognised as.
 ```lsblk -f -p ```
