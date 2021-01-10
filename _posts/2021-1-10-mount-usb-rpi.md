@@ -2,7 +2,7 @@
 layout: article
 title: WIP Mount USB storage on a Raspberry Pi
 description: How to mount USB storage on a Raspberry Pi or other Linux device from the terminal.
-published: 
+published: true
 ---
 WIP
 ## Mounting
