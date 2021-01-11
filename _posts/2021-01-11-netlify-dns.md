@@ -19,7 +19,9 @@ Setup was very easy, all you need to do is input your domain name and change you
 - SPF
 - SRV
 - TXT
+
+
 As you can see, Netlify DNS is not only for Netlify-hosted sites, but there are many extra features for Netlify.
 Namecheap's dns service has an option to redirect subdomains. Netlify does not have this in the DNS interface, but it is still possible with ` _redirects`
 ## Summary
-It is nice to have a clean interface without constant upsells. I am not sure if there is a limit on records, but it does not appear so. I recommend itif you are already using Netlify, and will continue to use it. 
+It is nice to have a clean interface without constant upsells. I am not sure if there is a limit on records, but it does not appear so. I recommend it if you are already using Netlify, and will continue to use it.
