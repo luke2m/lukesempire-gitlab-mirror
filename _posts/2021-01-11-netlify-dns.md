@@ -25,3 +25,16 @@ As you can see, Netlify DNS is not only for Netlify-hosted sites, but there are 
 Namecheap's dns service has an option to redirect subdomains. Netlify does not have this in the DNS interface, but it is still possible with ` _redirects`
 ## Summary
 It is nice to have a clean interface without constant upsells. I am not sure if there is a limit on records, but it does not appear so. I recommend it if you are already using Netlify, and will continue to use it.
+
+### Pros
+- Free ($)
+- Seems fast to propagate
+- Easy to use on and off Netlify
+- Better load balancing
+- Branch subdomains and other features
+- Uninterrupted switching
+### Cons 
+- Not as many features as Cloudflare
+- Tell me! I am not a DNS expert.
+
+ 
