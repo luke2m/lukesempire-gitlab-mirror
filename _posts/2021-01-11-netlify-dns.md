@@ -7,7 +7,7 @@ published: true
 ---
 ## Setup
 Setup was very easy; all you need to do is input your domain name and change your name servers. You could also register a domain through the Netlify UI, but the price was more than Namecheap. The dns servers are from NS1. There also was an option to add records before transferring servers, so that emails, etc. would never be interrupted. <br>
-<<img src="/uploads/img4.jpeg" width="300" alt="adding the domain"><br><img src="/uploads/image2.jpg" width="300" alt="Adding records"><br><img src="/uploads/image0.jpeg" width="300" alt="adding dns records><br>
+<img src="/uploads/image4.jpeg" width="300" alt="adding the domain"><br><img src="/uploads/image2.jpg" width="300" alt="Adding records"><br><img src="/uploads/image0.jpeg" width="300" alt="adding dns records><br>
 
 ## Supported Records
 - A
