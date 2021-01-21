@@ -48,7 +48,7 @@ function encrypt(msg) {
 <h1>Contact Me</h1>
 <p>This form's body will be encrypted and emailed to me using my pgp key.</p>
 <p>You can also reach me at hello (at) lukesempire (dot) com.</p>
-<form id="form" method="post" action="https://luke.tilde.team/contact.php"> 
+<form id="form" method="post" data-netlify="true"> 
 	<table width="450px">
 		<tbody><tr>
 	  		<td valign="top">
@@ -76,7 +76,7 @@ function encrypt(msg) {
 		</tr>
 		<tr>
 		  	<td colspan="2">
-				<input type="submit">
+				<input type="submit" value="Submit">
 		  	</td>
 		</tr> 
 	</tbody></table> 
