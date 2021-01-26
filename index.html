@@ -8,9 +8,23 @@ layout: default
     <h2>
         I'm a...
     </h2>
-    <h3 style="text-align: center;">
-        Hobby Web Developer | Student | Runner
-    </h3>
+    <h3 id="typewriter"></h3>
+
+ <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <script type="text/javascript">
+    const instance = new Typewriter('#typewriter', {
+      strings: ['Hobby Web Developer', 'Student', 'Runner','Science Olympian'],
+      autoStart: true,
+      loop: true,
+      pauseFor: 3000
+      
+    });
+  </script>
+  <noscript>
+      <h3 style="text-align: center;">Hobby Web Developer | Student | Runner | Why don't you have Javascript?</h3>
+      </noscript>
+
+
     <h4>
         Some of my web dev projects:
     </h4>
