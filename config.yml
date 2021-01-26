@@ -10,4 +10,6 @@ social:
 	- https://github.com/luke2m
 	- https://gitlab.com/luke2m
 locale: en_US
+include:
+	_redirects
 
