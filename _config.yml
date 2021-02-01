@@ -6,5 +6,5 @@ author: Luke M
 logo: /photo.jpg
 locale: en_US
 include:
-	_redirects
+ - _redirects
 
