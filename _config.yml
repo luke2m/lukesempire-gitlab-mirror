@@ -4,11 +4,6 @@ tagline: Random stuff from Luke
 description: Luke's website and blog
 author: Luke M
 logo: /photo.jpg
-social:
-	name: Luke M
-	links:
-	- https://github.com/luke2m
-	- https://gitlab.com/luke2m
 locale: en_US
 include:
 	_redirects
