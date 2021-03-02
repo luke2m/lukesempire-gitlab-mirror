@@ -2,3 +2,4 @@
 /github https://github.com/luke2m
 /gitlab https://gitlab.com/luke2m
 https://lukemetoki.js.org/* https://lukesempire.com/:splat 301!
+/.well-known/matrix/* https://matrix.lukesempire.com/.well-known/matrix/:splat 200!
