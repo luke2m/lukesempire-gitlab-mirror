@@ -42,10 +42,10 @@ a:visited {
     color: #6c71c4;
 }
 a:after {
-  content="°"
+  content="\00B0"
 } 
 a:not([href*='lukesempire.com']):not([href^='#']):not([href^='/']):after {
-content="⇗"
+content="\21D7"
 }
 .PageNavigation {
     font-size: 14px;
