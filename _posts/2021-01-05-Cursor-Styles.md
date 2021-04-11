@@ -4,7 +4,7 @@ date: 2021-01-05
 title: Cursor Styles
 description: See all the cursor styles and compatibility.
 ---
-Hover over the following to see the cursor types that you can define in CSS. The list of them is from w3schools.
+Hover over the following to see the cursor types that you can define in CSS. 
 I started a list of compatibility at the bottom.
 
 
