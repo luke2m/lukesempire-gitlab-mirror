@@ -81,7 +81,10 @@ content="\21D7"
 
 
 }
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 /*
 SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
