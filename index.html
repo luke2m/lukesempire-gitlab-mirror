@@ -22,7 +22,6 @@ layout: default
   </script>
   <noscript>
       <h3 style="text-align: center;">Hobby Web Developer | Student | Runner</h3>
-      <p> no js?</p>
       </noscript>
 
 
@@ -41,7 +40,7 @@ layout: default
   {% for post in site.posts limit:1 %}
   <li>
     <a href="{{ post.url }}">
-    <h3>{{ post.title }}</h3>
+    <ul><li>{{ post.title }}</li></ul>
     <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
 
     </a>
