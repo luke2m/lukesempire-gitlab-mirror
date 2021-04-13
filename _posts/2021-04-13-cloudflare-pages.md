@@ -16,3 +16,7 @@ When you select a repository, however, there is no search feature. You must look
 
 Then, you select a subdomain of `*.pages.dev`, and the build commands. There is a drop-down menu to select from the most common frameworks.
 ![configuring](/uploads/cf/config.jpeg)
+
+## Build
+
+Compared to Netlify, the build takes quite a while. Updating one word on one post took 5:28. For some reason, Hugo was installed, even though my site uses Jekyll.
