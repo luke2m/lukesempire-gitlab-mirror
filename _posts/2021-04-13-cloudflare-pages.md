@@ -22,4 +22,7 @@ Then, you select a subdomain of `*.pages.dev`, and the build commands. There is 
 Compared to Netlify, the build takes quite a while. Updating one word on one post took 5:28. For some reason, Hugo was installed, even though my site uses Jekyll.
 ![build](/uploads/cf/build.jpeg)
 
+## Analytics and other features
+
+Cloudflare has built-in free analytics, which are supposedly privacy-friendly. On Netlify, you must pay a seperate fee ($9/month/site), or provide your own. I use [GoatCounter](https://www.goatcounter.com). Cloudflare's solution seems pretty comprehensive. It also measures core web vitals, 
 
