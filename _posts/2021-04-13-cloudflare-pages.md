@@ -24,5 +24,5 @@ Compared to Netlify, the build takes quite a while. Updating one word on one pos
 
 ## Analytics and other features
 
-Cloudflare has built-in free analytics, which are supposedly privacy-friendly. On Netlify, you must pay a seperate fee ($9/month/site), or provide your own. I use [GoatCounter](https://www.goatcounter.com). Cloudflare's solution seems pretty comprehensive. It also measures core web vitals, 
+Cloudflare has built-in free analytics, which are supposedly privacy-friendly. On Netlify, you must pay a seperate fee ($9/month/site), or provide your own. I use [GoatCounter](https://www.goatcounter.com). Cloudflare's solution seems pretty comprehensive. It also measures core web vitals, which I found interesting. My main website was getting several views every minute from Boing Boing and Hacker News, so I decided to try it out there. Something interesting was that 
 
