@@ -20,3 +20,6 @@ Then, you select a subdomain of `*.pages.dev`, and the build commands. There is 
 ## Build
 
 Compared to Netlify, the build takes quite a while. Updating one word on one post took 5:28. For some reason, Hugo was installed, even though my site uses Jekyll.
+![build](/uploads/cf/build.jpeg)
+
+
