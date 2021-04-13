@@ -14,7 +14,7 @@ The only way to use Cloudflare pages is to use a linked GitHub Repository. GitLa
 When you select a repository, however, there is no search feature. You must look through all repos to find the one you want.
 ![selecting repo](/uploads/cf/repos.jpeg)
 
-Then, you select a subdomain of `*.pages.dev`, and the build commands. There is a drop-down menu to select from the most common frameworks.
+Then, you select a subdomain of `*.pages.dev`, and the build commands. There is a drop-down menu to select from the most common frameworks. All of the ones that I could think of were included, but if you use something else, you can type a custom command.
 ![configuring](/uploads/cf/config.jpeg)
 
 ## Build
@@ -24,5 +24,5 @@ Compared to Netlify, the build takes quite a while. Updating one word on one pos
 
 ## Analytics and other features
 
-Cloudflare has built-in free analytics, which are supposedly privacy-friendly. On Netlify, you must pay a seperate fee ($9/month/site), or provide your own. I use [GoatCounter](https://www.goatcounter.com). Cloudflare's solution seems pretty comprehensive. It also measures core web vitals, which I found interesting. My main website was getting several views every minute from Boing Boing and Hacker News, so I decided to try it out there. Something interesting was that 
+Cloudflare has built-in free analytics, which are supposedly privacy-friendly. On Netlify, you must pay a seperate fee ($9/month/site), or provide your own. I use [GoatCounter](https://www.goatcounter.com). Cloudflare's solution seems pretty comprehensive. It also measures core web vitals, which I found interesting. My main website was getting several views every minute from Boing Boing and Hacker News, so I decided to try it out there. It was interesting to see, for example, which countries use which operating systems, and that my page loads slower in Brazil.
 
