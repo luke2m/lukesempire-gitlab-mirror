@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Cloudflare Pages Mini Review
-date: 2021-04-13
+date: 2021-04-14
 published: true
 ---
 TLDR: Pretty good, but I won't switch.
