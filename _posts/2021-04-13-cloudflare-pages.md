@@ -4,9 +4,9 @@ title: Cloudflare Pages Mini Review
 date: 2021-04-13
 published: true
 ---
-TLDR: Good, but I won't switch.
+TLDR: Pretty good, but I won't switch.
 
-[Cloudflare Pages](https://pages.cloudflare.com), a new static site hosting platform, is now [generally available]. I decided to give it a try. Here are my thoughts.
+[Cloudflare Pages](https://pages.cloudflare.com), a new static site hosting platform, is now [generally available](https://blog.cloudflare.com/cloudflare-pages-ga/). I decided to give it a try. Here are my thoughts.
 
 ## Getting started
 
