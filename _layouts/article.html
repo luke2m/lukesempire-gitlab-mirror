@@ -21,7 +21,7 @@ layout: default
     <p>{{ content }}</p>
   </div>
 </article>
-<h3>Webmentions</h3>
+<h3>Webmentions and Comments</h3>
 <hr>
 <script id="webmention-hosted">
 (function () {
@@ -32,4 +32,13 @@ sn.type = "text/javascript"; sn.async = true;
 sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
 s.parentNode.insertBefore(sn, s);
 }());
+</script>
+
+<script src="https://utteranc.es/client.js"
+        repo="luke2m/lukesempire-gitlab-mirror"
+        issue-term="pathname"
+        label="comment"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
 </script>
