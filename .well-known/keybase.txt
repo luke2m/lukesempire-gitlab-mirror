@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/luke2m
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lukesempire.com
+  * I am luke2m (https://keybase.io/luke2m) on keybase.
+  * I have a public key with fingerprint 9BC4 E88D 2D50 A3F7 9D8F  F9AE 12C9 770F 9E67 1068
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f0668c6eeb1d10b9fe13a2feff3f4171887e38e46de96b959e6a0831d92bfade0a",
+      "fingerprint": "9bc4e88d2d50a3f79d8ff9ae12c9770f9e671068",
+      "host": "keybase.io",
+      "key_id": "12c9770f9e671068",
+      "kid": "0101f0668c6eeb1d10b9fe13a2feff3f4171887e38e46de96b959e6a0831d92bfade0a",
+      "uid": "c7ce9923669cd390fd35b88dd4df3f19",
+      "username": "luke2m"
+    },
+    "service": {
+      "hostname": "lukesempire.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1618689767,
+  "expire_in": 157680000,
+  "prev": "fd9b87332944a2d8f6cd7a833f86363db390fe7d6dcf96356f6234bc9134738e",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJtSBRBGMfvssKOInuHFILNLopTdnf2ZneusD4FUZElIZRw7e7M3G16
+t9vunWV2xilYSdELBR6VhkX1oU+VZwaKeZW9kFCQCBVESGEvSEmBQtSsFPShj82X
+YZ75/3/zfx7m3pw8j887/9G+uW2Rgqj3yd3WpGd3fdn7ek4zcR0XqueqydRGajBx
+EuFqA3Mhjhd4gfIQKjokRBOwwGuIEgGoIiWUAioJsqAoMgEKkSAmCGooiAhUeQUI
+GIkaVTHhVS7AUSMeIbZlG/EEwyJNl4iiYBEHeRVQGWGFUqQSQdSRLPOUIWSBhwoz
+Rk3HdbBwmuqQUsNkNXYIT8X7h/4/505O4XRZJwiJAEKkY4B4ikFQY/mxhBlMQK7Q
+IXZcjRGmrklWEzHGpQIcq9UaOnHH6vbx171DYpZhk1LdjDGzZZsJUzdr2GU0kbCc
+kGtO1Fmueh/Rwr85Yc2IYzZI5qgltmOYcS4kMKWeMFywAAUFKkiGcoAj+1182HAV
+QRkqPFvuO6SWISlGmiIDICJJUkU2e6hjWVUAoAoEEGDNbZHIGGKdIgiCkEIRSJqO
+BCDJbGSc29neuMmFEIupRhjSMSJxNZG0CZfq76ua7vH6PDNnTHM/mMc3q+DPt+v4
+nO+5eSq3JPSm+Oi2zIPe7o/+LVuvXC15+7YiszNVbPfm6cVVwsDmeZsCbSVNXWda
+KoeXZC+sOCdNdB5e35Dee+lMw65jjb7Ry586D7wrb27Zvnbow+TYM8sebFwtd1wc
+4o9sWDt+b/z1jPMVBddOBHraC3uqxk43Pb+xI1e0vDrY0TSSyZbG6pTi8a8Rcem6
+k6O5wmZ1drqrLHPIrz7P3n/h5X58mSwY+d4/mLa6Wy6X37qzMNkX3nO2eWTnz4Zl
+C6+Xty1eYx18OHtDWc9wa/plkd+/0b9tU2V777XJp8dHHzRGS04PPO7OmquaJ/IX
+1C76NhFN5Y7e/dG68nZ/+7OxzlfRV0W/AMf2R5A=
+=4qGl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/luke2m
+
+==================================================================
