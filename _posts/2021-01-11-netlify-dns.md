@@ -36,6 +36,6 @@ It is nice to have a clean interface without constant upsells. I am not sure if 
 - Uninterrupted switching
 ### Cons 
 - Not as many features as Cloudflare
-- Tell me! I am not a DNS expert.
+
 
  
